@@ -1,2 +1,2 @@
-# Python-Studies
-My Python projects
+# Wed Development Projects
+
